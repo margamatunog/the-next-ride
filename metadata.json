@@ -1,0 +1,7 @@
+{
+  "name": "The Next Ride - Letter to My Future Self",
+  "description": "An interactive time-capsule and future-self letter portal for 1Matunog District's 1CMA at 12 celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
